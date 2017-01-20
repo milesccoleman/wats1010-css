@@ -1,6 +1,51 @@
 /* This is where styles are defined for your page. */
 /* One style is provided as example. */
 
+html {
+  margin-left: 50px; 
+  margin-right: 50px; 
+  margine-top: auto; 
+  margin-bottom: auto:  
+}
+img {
+  height: auto; 
+  width: 200px; 
+}
+body {  
+}
+header{
+  text-align: center; 
+}
 h1 {
-    color: green;
+  color: blue; 
+  font-style: sans-serif; 
+  text-align: center; 
+}
+h2 {
+  color: blue; 
+  font-style: sans-serif; 
+  text-align: left; 
+}
+aside {
+    padding: 10px; 
+}
+section#content
+  ul {
+  background-image: url("http://www.publicdomainpictures.net/pictures/110000/velka/hiking-the-sand-dunes.jpg");
+  background-color: grey;
+  background-blend-mode: screen;
+  margin-left: 410px; 
+  list-style-type: none; 
+  border-style: solid; 
+  border-width: 1px; 
+  width: 380px; 
+  height: auto; 
+  text-align: left; 
+  line-height: 1.18; 
+}
+
+p {
+  font-style: arabic-indic; 
+}
+footer {
 }
